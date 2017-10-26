@@ -1,6 +1,6 @@
 # This is a read me
 
-#This is a heading
+# This is a heading
 ![hmmmm](https://katpepita.files.wordpress.com/2011/04/pensive-obama.jpg)
 
 ```
